@@ -1,0 +1,3 @@
+Step 5: Reflect & Compare
+
+MongoDB felt the easiest for storing the student record because it accepts natural, JSON-like documents without needing to pre-configure or run database administration commands beforehand. In contrast, PostgreSQL required defining a strict relational table structure upfront with fixed data types like SERIAL and TEXT before any data could be added. Both MongoDB and Redis allowed inserting data without a predefined structure, enabling rapid schema-less storage for dynamic records or key-value structures.
